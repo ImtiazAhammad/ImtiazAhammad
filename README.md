@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiazahammad" alt="imtiazahammad" /></a> </p>
 
-- 🔭 I’m currently working on **ANTT ROBOTICS**
+- 🔭 I’m currently working on **ANTT ROBOTICS LTD**
 
 - 🌱 I’m currently learning **MLOps , Multi-modal Models, LangChain RAG system**
 
